@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3cb6da07-beb5-47e6-8f28-565d23337ff7",
+    "category": "Coding",
+    "title": "Nextjs Serveside Rendering",
+    "noteBody": "dhdhfdh"
+  },
+  {
+    "id": "83e422a2-999b-4ed0-9d2f-04b1a2567470",
+    "category": "Coding",
+    "title": "Debian Lessons",
+    "noteBody": "afdsafsdafsdafdsafsdafsdasfsd"
+  },
+  {
+    "id": "442c8c65-4ca2-4c09-b456-8c5fcc382406",
+    "category": "Coding",
+    "title": "Nodejs",
+    "noteBody": "Basic of nodejs with http module"
+  },
+  {
+    "id": "760fecf4-6ee4-4100-8679-ef60b8ea0e6a",
+    "category": "Coding",
+    "title": "Express JS with MongoDB",
+    "noteBody": "This is a lessons for express js with mongodb"
+  },
+  {
+    "id": "a044ee7b-7b5a-41a3-8f70-9c51c93c1428",
+    "category": "coding",
+    "title": "Express JS with MySQL",
+    "noteBody": "Thadadasds is a lessons for express js with mongodb"
+  }
+]
